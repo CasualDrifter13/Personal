@@ -6,4 +6,4 @@ Downloading the R2ModMan Launcher
 ---
 First you need to download the manager its called **r2modman**
 [Link to Store](https://thunderstore.io/c/lethal-company/)
-![r2modman](Photos/LehtlaModLauncherGuide)
+![r2modman](Photos/LehtlaModLauncherGuide/image_2023-12-15_115855611.png)
