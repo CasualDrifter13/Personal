@@ -24,6 +24,7 @@ In modman go to these sections
 and go to <bepinx --> plugins --> custom songs> it should be empty  
 ![steps](Photos/LehtlaModLauncherGuide/frickyou.png)
 Now just unzip the song list you downloaded into the **custom song** folder and ur done  
+While your here go to the bottom of the plugins folder and click **x753-More_Suits** and drag the moresuits folder into the plugins folder
 
 Updating the mod list
 ---
