@@ -15,4 +15,4 @@ Find Lethal Company and select it
 ![r2modman_Letghal](Photos/LehtlaModLauncherGuide/image_2023-12-15_121202374.png)  
 
 Click on Import/Update --> Import New Profile --> From Code  
-Then paste this code ****
+Then paste this code **018c7159-e3fc-fbbc-6488-5146710f0c12**
