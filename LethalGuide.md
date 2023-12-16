@@ -20,9 +20,9 @@ Now launch the hit start modded in the top right cornor wait for the main menu t
 Go to [this](https://drive.google.com/drive/folders/1RBKf-UG_68ISVJft_lltWjYvhtQ4brZO?usp=drive_link) google drive and downlaod the song list we have  
 
 In modman go to these sections  
-![steps](Photos/LehtlaModLauncherGuide/Screenshot 2023-12-15 224650.png)  
+![steps](Photos/LehtlaModLauncherGuide/github.png)  
 and go to <bepinx --> plugins --> custom songs> it should be empty  
-![steps2](Photos/LehtlaModLauncherGuide/Screenshot 2023-12-15 224808.png)  
+![steps](Photos/LehtlaModLauncherGuide/frickyou.png)
 Now just unzip the song list you downloaded into the **custom song** folder and ur done  
 
 Updating the mod list
