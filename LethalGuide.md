@@ -15,7 +15,7 @@ Find Lethal Company and select it
 ![r2modman_Letghal](Photos/LehtlaModLauncherGuide/image_2023-12-15_121202374.png)  
 
 Click on <Import/Update --> Import New Profile --> From Code>
-Then paste this code **018c80f4-fcea-f6c0-5e99-04e9430aa983**  
+Then paste this code **018c810e-fd60-b233-9cc2-328091718944**  
 Now launch the hit start modded in the top right cornor wait for the main menu to show up and close the game and go back to modman (the game may crash once or twice upon inital launch just keept tryin) 
   
 Go to [this](https://drive.google.com/drive/folders/1RBKf-UG_68ISVJft_lltWjYvhtQ4brZO?usp=drive_link) google drive and downlaod the song list we have  
